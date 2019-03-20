@@ -1,0 +1,26 @@
+{
+  "name": "repeat-bot",
+  "version": "1.0.0",
+  "description": "Repeat the last word you write. As a good, intelligent, and interesting person",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giraldezjorge/repeat-bot.git"
+  },
+  "keywords": [
+    "repeat",
+    "bot"
+  ],
+  "author": "Jorge Giraldez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giraldezjorge/repeat-bot/issues"
+  },
+  "homepage": "https://github.com/giraldezjorge/repeat-bot#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
